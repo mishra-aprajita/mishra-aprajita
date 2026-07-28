@@ -21,6 +21,7 @@
 * 🌱 Currently mastering **Full Stack Web Development** & **DSA**.
 * 🎨 Passionate about **UI/UX Design** and writing clean, scalable code.
 * 🎯 **Goal:** To become an impactful **Full Stack Developer**.
+* 🎓 **Academic Progress:** Achieved an **8.0 GPA** in the current semester, consistently working on academic & technical growth.
 * 📫 **Reach me:** mishraaprajita43@gmail.com
 
 ---
