@@ -140,14 +140,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra-aprajita&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
-
-</div>
----
 
 ### 📈 Contribution Graph
 
