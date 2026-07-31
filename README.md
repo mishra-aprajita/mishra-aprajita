@@ -129,15 +129,7 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
 
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=mishra-aprajita&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-
-</div>
-
----
 ---
 
 ### 🔥 GitHub Streak Stats
