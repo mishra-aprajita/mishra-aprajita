@@ -18,10 +18,10 @@
 
 > *"Passionate about building intuitive web experiences with clean code, thoughtful design, and continuous learning."*
 
+* 🎓 **Academic Progress:** Achieved an **8.0 GPA** in the 2nd semester, demonstrating continuous growth.
 * 🌱 Currently mastering **Full Stack Web Development** & **DSA**.
 * 🎨 Passionate about **UI/UX Design** and writing clean, scalable code.
 * 🎯 **Goal:** To become an impactful **Full Stack Developer**.
-* 🎓 **Academic Progress:** Achieved an **8.0 GPA** in the current semester, consistently working on academic & technical growth.
 * 📫 **Reach me:** mishraaprajita43@gmail.com
 
 ---
@@ -62,11 +62,13 @@
 
 </div>
 
+---
+
 ### 📌 Currently Building
 
-* 🎮 **XPify — Gamified Learning Platform:** Building an interactive full-stack learning platform for engineering students to turn study & DSA practice into XP, levels, and badges.
-* ⚡ **Frontend Architecture:** Refining skills using React.js, Tailwind CSS, and scalable state management.
-* 🚀 **Open Source & DSA:** Actively solving DSA problems and contributing to open-source programs.
+* 🎮 **XPify — Gamified Learning Platform:** Actively developing a full-stack MERN learning platform for engineering students with real-time XP and socket.io mechanics.
+* 🧩 **DSA Problem Solving:** Strengthening core Data Structures and Algorithms skills in Python.
+* 🚀 **Open Source:** Actively contributing to community projects and frontend architecture.
 
 ---
 
@@ -111,23 +113,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3>🎮 XPify — Gamified Learning Platform</h3>
-      <p>A MERN stack platform transforming engineering study and placement prep into an engaging XP and badge-based experience.</p>
-      <h4>✨ Highlights</h4>
-      <ul>
-        <li>Real-time Gamification & Leaderboards</li>
-        <li>Socket.io Real-time Mechanics</li>
-        <li>JWT & Google OAuth Authentication</li>
-      </ul>
-      <h4>🛠️ Tech Stack</h4>
-      <p><code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>Socket.io</code></p>
-      <a href="https://github.com/mishra-aprajita/gamified-learning-platform">
-        <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -138,6 +123,16 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=mishra-aprajita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-aprajita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-aprajita&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </div>
 
