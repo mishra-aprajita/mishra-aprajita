@@ -18,7 +18,7 @@
 
 > *"Passionate about building intuitive web experiences with clean code, thoughtful design, and continuous learning."*
 
-* 🎓 **Academic Progress:** Achieved an **8.0 GPA** in the 2nd semester, demonstrating continuous growth.
+
 * 🌱 Currently mastering **Full Stack Web Development** & **DSA**.
 * 🎨 Passionate about **UI/UX Design** and writing clean, scalable code.
 * 🎯 **Goal:** To become an impactful **Full Stack Developer**.
