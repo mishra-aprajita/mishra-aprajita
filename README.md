@@ -64,56 +64,9 @@
 
 ---
 
-### 📌 Currently Building
 
-* 🎮 **XPify — Gamified Learning Platform:** Actively developing a full-stack MERN learning platform for engineering students with real-time XP and socket.io mechanics.
-* 🧩 **DSA Problem Solving:** Strengthening core Data Structures and Algorithms skills in Python.
-* 🚀 **Open Source:** Actively contributing to community projects and frontend architecture.
 
----
 
-### 🌟 Developer Philosophy
-
-> *"Good code solves problems. Great code creates experiences."*
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Sentinel AI Threat Detection</h3>
-      <p>A signature-independent, real-time threat detection engine that scores suspicious behavior and request patterns.</p>
-      <h4>✨ Highlights</h4>
-      <ul>
-        <li>Real-Time Anomaly Scoring</li>
-        <li>Explainable Threat Alerts</li>
-        <li>Live Analytics Dashboard</li>
-      </ul>
-      <h4>🛠️ Tech Stack</h4>
-      <p><code>Node.js</code> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code></p>
-      <a href="https://github.com/mishra-aprajita/Login-Threat-Detection-System">
-        <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💡 AI Financial Advisor</h3>
-      <p>An interactive dashboard that helps users visualize, track, and optimize financial health with real-time charts.</p>
-      <h4>✨ Highlights</h4>
-      <ul>
-        <li>Interactive Charts (Recharts)</li>
-        <li>Smooth Animations (Framer Motion)</li>
-        <li>Responsive Modern Layout</li>
-      </ul>
-      <h4>🛠️ Tech Stack</h4>
-      <p><code>React</code> <code>Tailwind CSS</code> <code>Vite</code> <code>Recharts</code></p>
-      <a href="https://github.com/mishra-aprajita/AI-Powered-Financial-Advisor">
-        <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
