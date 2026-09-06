@@ -1,11 +1,12 @@
 <div align="center">
 
   <h1>Hi 👋, I'm Aprajita Mishra</h1>
-  <h3>Passionate Full Stack Web Developer & UI/UX Enthusiast</h3>
+  <h3>Full-Stack Web Developer & UI/UX Enthusiast</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/aprajita-mishra-2b1681378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:mishraaprajita43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/mishra-aprajita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://leetcode.com/Aprajitamis_011/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=mishra-aprajita&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -14,15 +15,30 @@
 
 ---
 
-### 💙 About Me
+### 📌 About Me
 
-> *"Passionate about building intuitive web experiences with clean code, thoughtful design, and continuous learning."*
+I'm a second-year **B.Tech Computer Science Engineering** student at **KR Mangalam University**, building full-stack web apps and exploring UI/UX design along the way. I like owning the product side of a project — research, wireframing in Figma, and feature design decisions — as much as the code that ships it.
 
+I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contributions) and I enjoy hackathons as a way to build fast and learn faster.
 
-* 🌱 Currently mastering **Full Stack Web Development** & **DSA**.
-* 🎨 Passionate about **UI/UX Design** and writing clean, scalable code.
-* 🎯 **Goal:** To become an impactful **Full Stack Developer**.
-* 📫 **Reach me:** mishraaprajita43@gmail.com
+* 🌱 Currently sharpening **Full Stack Development** & **DSA**
+* 🎨 Passionate about **UI/UX Design** and clean, scalable code
+* 🏆 Top 100 at **Aarambhathon 2025** (Team 2TechY) · participant at **Hack at BVP 7.0 (NIT Delhi)** & **Hack KRMU 5.0**
+* 🧩 50+ **DSA problems solved** on LeetCode
+* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aprajitamishra1111/)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does |
+|---|---|
+| **FinTrack** | AI-powered financial advisor dashboard (React, Tailwind, Vite) |
+| **XPify (LevelUp)** | Gamified learning platform for engineering students |
+| **LearnTogether** | Student learning community with JWT auth, levels/streaks, peer messaging |
+| **SmartCart** | E-commerce app with three shopping modes and a recommendation engine |
+| **WriteTrace** | Behavioral academic integrity checker |
+| **Notes Workshop** | Full-stack notes app (React/Vite + Node/Express + PostgreSQL) |
 
 ---
 
@@ -36,9 +52,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-  #### 🌐 Frontend Development
+  #### 🌐 Frontend
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -47,22 +62,22 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
-  #### 🧰 Tools & Cloud Platforms
+  #### 🧰 Tools & Platforms
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
-### 📊 GitHub Analytics
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -71,23 +86,11 @@
 
 </div>
 
----
-
-
----
-
-### 🔥 GitHub Streak Stats
-
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-aprajita&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </div>
-
----
-
-
-### 📈 Contribution Graph
 
 <div align="center">
 
@@ -102,11 +105,10 @@
 <div align="center">
 
   <p>
-    <a href="https://www.linkedin.com/in/aprajita-mishra-2b1681378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-    <a href="mailto:mishraaprajita43@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+    <a href="https://github.com/mishra-aprajita"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
   </p>
 
-  💙 *Thanks for visiting my profile!* ⭐ *If you like my work, consider following me.*
+  ⭐ *Thanks for visiting my profile! If you like my work, consider following me.*
 
 </div>
-*
