@@ -7,6 +7,8 @@
     <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/mishra-aprajita"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://leetcode.com/Aprajitamis_011/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.instagram.com/aprajitamishra011/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=mishra-aprajita&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -107,6 +109,8 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
   <p>
     <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
     <a href="https://github.com/mishra-aprajita"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+    <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail" /></a>
+    <a href="https://www.instagram.com/aprajitamishra011/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" /></a>
   </p>
 
   ⭐ *Thanks for visiting my profile! If you like my work, consider following me.*
