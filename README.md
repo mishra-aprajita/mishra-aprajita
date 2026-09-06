@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aprajita%20Mishra&fontSize=55&fontColor=ff69b4&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%26%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" alt="Aprajita Mishra banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aprajita%20Mishra&fontSize=55&fontColor=ff69b4&fontAlignY=40&desc=Full%20Stack%20Developer%20and%20UI%20UX%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" alt="Aprajita Mishra banner" width="100%" />
 
   <p>
     <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
