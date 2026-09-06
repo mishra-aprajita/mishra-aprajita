@@ -64,12 +64,12 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mishra-aprajita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-aprajita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishra-aprajita&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-aprajita&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
 
 </div>
 
@@ -81,7 +81,7 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra-aprajita&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra-aprajita&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Contribution Graph" width="100%" />
 
 </div>
 
