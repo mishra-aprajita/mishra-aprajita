@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aprajita%20Mishra&fontSize=55&fontColor=ff69b4&fontAlignY=40&desc=Full%20Stack%20Developer%20and%20UI%20UX%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" alt="Aprajita Mishra banner" width="100%" />
+  <img src="./banner.svg" alt="Aprajita Mishra banner" width="100%" />
 
   <p>
     <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,19 +26,6 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
 * 🎨 Passionate about **UI/UX Design** and clean, scalable code
 * 🏆 Top 100 at **Aarambhathon 2025** (Team 2TechY) · participant at **Hack at BVP 7.0 (NIT Delhi)** & **Hack KRMU 5.0**
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aprajitamishra1111/)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does |
-|---|---|
-| **FinTrack** | AI-powered financial advisor dashboard (React, Tailwind, Vite) |
-| **XPify (LevelUp)** | Gamified learning platform for engineering students |
-| **LearnTogether** | Student learning community with JWT auth, levels/streaks, peer messaging |
-| **SmartCart** | E-commerce app with three shopping modes and a recommendation engine |
-| **WriteTrace** | Behavioral academic integrity checker |
-| **Notes Workshop** | Full-stack notes app (React/Vite + Node/Express + PostgreSQL) |
 
 ---
 
@@ -88,7 +75,7 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-aprajita&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=mishra-aprajita&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 
 </div>
 
