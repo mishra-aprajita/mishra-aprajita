@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm Aprajita Mishra</h1>
-  <h3>Full-Stack Web Developer & UI/UX Enthusiast</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aprajita%20Mishra&fontSize=55&fontColor=ff69b4&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%26%20UI%2FUX%20Enthusiast&descAlignY=60&descSize=20&descColor=ffffff" alt="Aprajita Mishra banner" width="100%" />
 
   <p>
     <a href="https://www.linkedin.com/in/aprajitamishra1111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,7 +25,6 @@ I'm an active **open source contributor** (freeCodeCamp, DevBoard, First Contrib
 * 🌱 Currently sharpening **Full Stack Development** & **DSA**
 * 🎨 Passionate about **UI/UX Design** and clean, scalable code
 * 🏆 Top 100 at **Aarambhathon 2025** (Team 2TechY) · participant at **Hack at BVP 7.0 (NIT Delhi)** & **Hack KRMU 5.0**
-* 🧩 50+ **DSA problems solved** on LeetCode
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aprajitamishra1111/)
 
 ---
